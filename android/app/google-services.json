@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "689179600756",
+    "project_id": "push-g60",
+    "storage_bucket": "push-g60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689179600756:android:02bededf726e3ac74e2e21",
+        "android_client_info": {
+          "package_name": "homsrentals.com.app_homs_rentals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689179600756-cab5p2dco8j30cba5dcihsf2o79ddqa4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQYPUSVNphrLfnu8STG1WDL3wOUjXZ_qY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689179600756-cab5p2dco8j30cba5dcihsf2o79ddqa4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
